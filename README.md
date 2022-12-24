@@ -27,6 +27,11 @@
 
 ## ⚡ Recent Activity :
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/AkhilRobert/AkhilRobert/pull/1) in [AkhilRobert/AkhilRobert](https://github.com/AkhilRobert/AkhilRobert)
+2. 💪 Opened PR [#4](https://github.com/Prakashdeveloper03/Python-Assignments/pull/4) in [Prakashdeveloper03/Python-Assignments](https://github.com/Prakashdeveloper03/Python-Assignments)
+3. ❗️ Opened issue [#3](https://github.com/Prakashdeveloper03/Python-Assignments/issues/3) in [Prakashdeveloper03/Python-Assignments](https://github.com/Prakashdeveloper03/Python-Assignments)
+4. ❗️ Opened issue [#2](https://github.com/Prakashdeveloper03/Python-Assignments/issues/2) in [Prakashdeveloper03/Python-Assignments](https://github.com/Prakashdeveloper03/Python-Assignments)
+5. 💪 Opened PR [#1](https://github.com/Prakashdeveloper03/Data-Structures-and-Algorithms-in-C/pull/1) in [Prakashdeveloper03/Data-Structures-and-Algorithms-in-C](https://github.com/Prakashdeveloper03/Data-Structures-and-Algorithms-in-C)
 <!--END_SECTION:activity-->
 
 <h2 align="left">🚀 Languages and Tools :</h2>
