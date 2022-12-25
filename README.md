@@ -40,6 +40,7 @@
 
 <p>
     <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-00599C.svg?logo=c-in-hexagon&logoColor=white">
+    <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white">
     <img alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26.svg?logo=java&logoColor=white">
     <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E">
@@ -52,19 +53,26 @@
 
 <p align="left">
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-   <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra--UI-319795?logo=chakra-ui&logoColor=white">
+   <img alt="CSS" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?logo=css3&logoColor=white">
+   <img alt="SCSS" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
+   <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra_UI-319795?logo=chakra-ui&logoColor=white">
    <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white">
+   <img alt="Styled Components" src="https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white">
 </p>
 
 ### 🧩 Frameworks and libraries
 
 <p>
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
     <img alt="Express" src="https://img.shields.io/badge/Express.js-20232A?logo=express&logoColor=white">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-20232A?logo=nextdotjs&logoColor=white">
-    <img alt="React.js" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
-    <img alt="React Table" src="https://img.shields.io/badge/react%20table-FF4154?logo=react%20table&logoColor=white">
+    <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white">
+    <img alt="React.js" src="https://img.shields.io/badge/React.js-20232A?logo=react&logoColor=61DAFB">
+    <img alt="React Table" src="https://img.shields.io/badge/React_Table-FF4154?logo=react%20table&logoColor=white">
     <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white">
+    <img alt="React Query" src="https://img.shields.io/badge/React_Query-FF4154?logo=react%20query&logoColor=white">
+    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB">
     <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white">
     <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-20232A?&logo=Socket.io&logoColor=white">
 </p>
@@ -74,7 +82,7 @@
 <p>
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B.svg?logo=mongodb&logoColor=white">
-    <img alt="AWS" src ="https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white">
+    <img alt="AWS" src ="https://img.shields.io/badge/Amazon_Web_Servies-FF9900?logo=amazonaws&logoColor=white">
 </p>
 
 ### 💻 Workspace
@@ -90,24 +98,29 @@
     <img alt="Brave" src="https://img.shields.io/badge/Brave-F05033?logo=Brave&logoColor=white">
     <img alt="Firefox" src="https://img.shields.io/badge/Firefox_Browser-FF7139.svg?logo=Firefox-Browser&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-    <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white">
+    <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white">
     <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&logo=neovim&logoColor=white">
-    <img alt="Safari" src="https://img.shields.io/badge/Safari-FF1B2D?logo=Safari&logoColor=white">
+    <img alt="Safari" src="https://img.shields.io/badge/Safari-20232A?logo=Safari&logoColor=white">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 </p>
-<br/>
 
 ## 🔥 Streak Stats
 <p>
-<img width="49%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilRobert&hide=c,css,dart,html,scss,markdown&langs_count=4&layout=compact&theme=nord&show_icons=true&show_icons=true&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkhilRobert&show_icons=true&theme=nord&hide_border=true"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkhilRobert&show_icons=true&theme=nord&hide_border=true"/>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilRobert&theme=nord&hide_border=true"/>
 </p>
+
+## 📊 Languages Stats
 <p align="center">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilRobert&theme=nord&hide_border=true"/>
+    <img width="49%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilRobert&hide=c,css,dart,html,scss,markdown&langs_count=4&layout=compact&theme=nord&show_icons=true&show_icons=true&hide_border=true"/>
 </p>
+
+## 🏆 Trophy Stats
 <p>
-    <img width="98%" alt="trophy stats" src="https://github-profile-trophy.vercel.app/?username=Prakashdeveloper03&theme=nord&no-frame=true&title=Followers,Stars,Commit,Repositories,PullRequest,MultiLanguage" />
+    <img width="98%" alt="trophy stats" src="https://github-profile-trophy.vercel.app/?username=AkhilRobert&theme=nord&no-frame=true&title=Followers,Stars,Commit,Repositories,PullRequest,MultiLanguage" />
 </p>
+
+## 📈 Contributions Graph
 <p>
     <img width="98%" alt="contributions graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AkhilRobert&area=true&layout=compact&theme=nord&hide_border=true" />
 </p>
