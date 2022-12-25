@@ -4,7 +4,7 @@
 <img src="assets/cover.png" align="middle">
 </p>
 
-<h4 align="center">I am a motivated studnet pursuing MCA (Master's in Computer Application). I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a motivated student pursuing MCA (Master's in Computer Application). I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
 <p align="center">
