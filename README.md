@@ -64,6 +64,8 @@
 
 <p>
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=green">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-202020.svg?logo=flask&logoColor=white">
     <img alt="Express" src="https://img.shields.io/badge/Express.js-20232A?logo=express&logoColor=white">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-20232A?logo=nextdotjs&logoColor=white">
@@ -88,7 +90,7 @@
 ### 💻 Workspace
 
 <p>
-    <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-20232A?logo=apple&logoColor=white">
+    <img alt="MacOS" src="https://img.shields.io/badge/Mac%20OS-20232A?logo=apple&logoColor=white">
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
 </p>
 
@@ -99,7 +101,7 @@
     <img alt="Firefox" src="https://img.shields.io/badge/Firefox_Browser-FF7139.svg?logo=Firefox-Browser&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
     <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white">
-    <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&logo=neovim&logoColor=white">
+    <img alt="Neovim" src="https://img.shields.io/badge/Neovim-%2357A143.svg?&logo=neovim&logoColor=white">
     <img alt="Safari" src="https://img.shields.io/badge/Safari-20232A?logo=Safari&logoColor=white">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 </p>
@@ -112,12 +114,12 @@
 
 ## 📊 Languages Stats
 <p align="center">
-    <img width="49%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilRobert&hide=c,css,dart,html,scss,markdown&langs_count=4&layout=compact&theme=nord&show_icons=true&show_icons=true&hide_border=true"/>
+    <img width="49%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilRobert&hide=c,css,html,javascript,scss,markdown&langs_count=4&layout=compact&theme=nord&show_icons=true&show_icons=true&hide_border=true"/>
 </p>
 
 ## 🏆 Trophy Stats
 <p>
-    <img width="98%" alt="trophy stats" src="https://github-profile-trophy.vercel.app/?username=AkhilRobert&theme=nord&no-frame=true&title=Followers,Stars,Commit,Repositories,PullRequest,MultiLanguage" />
+    <img width="98%" alt="trophy stats" src="https://github-profile-trophy.vercel.app/?username=AkhilRobert&theme=nord&no-frame=true&title=Followers,Stars,Commit,Repositories,Issues,MultiLanguage" />
 </p>
 
 ## 📈 Contributions Graph
