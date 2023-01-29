@@ -27,11 +27,11 @@
 
 ## ⚡ Recent Activity :
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Prakashdeveloper03/Python-Assignments/pull/5) in [Prakashdeveloper03/Python-Assignments](https://github.com/Prakashdeveloper03/Python-Assignments)
-2. 🎉 Merged PR [#3](https://github.com/AkhilRobert/AkhilRobert/pull/3) in [AkhilRobert/AkhilRobert](https://github.com/AkhilRobert/AkhilRobert)
-3. 🎉 Merged PR [#2](https://github.com/AkhilRobert/AkhilRobert/pull/2) in [AkhilRobert/AkhilRobert](https://github.com/AkhilRobert/AkhilRobert)
-4. 🎉 Merged PR [#1](https://github.com/AkhilRobert/AkhilRobert/pull/1) in [AkhilRobert/AkhilRobert](https://github.com/AkhilRobert/AkhilRobert)
-5. 💪 Opened PR [#4](https://github.com/Prakashdeveloper03/Python-Assignments/pull/4) in [Prakashdeveloper03/Python-Assignments](https://github.com/Prakashdeveloper03/Python-Assignments)
+1. ❗️ Opened issue [#5](https://github.com/AkhilRobert/StockInventory/issues/5) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
+2. ❗️ Closed issue [#4](https://github.com/AkhilRobert/StockInventory/issues/4) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
+3. ❗️ Opened issue [#4](https://github.com/AkhilRobert/StockInventory/issues/4) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
+4. ❗️ Opened issue [#3](https://github.com/AkhilRobert/StockInventory/issues/3) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
+5. ❗️ Opened issue [#2](https://github.com/AkhilRobert/StockInventory/issues/2) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
 <!--END_SECTION:activity-->
 
 <h2 align="left">🚀 Languages and Tools :</h2>
