@@ -27,11 +27,11 @@
 
 ## ⚡ Recent Activity :
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/AkhilRobert/StockInventory/issues/7) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
-2. ❗️ Opened issue [#10](https://github.com/AkhilRobert/StockInventory/issues/10) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
-3. ❗️ Opened issue [#9](https://github.com/AkhilRobert/StockInventory/issues/9) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
-4. ❗️ Opened issue [#8](https://github.com/AkhilRobert/StockInventory/issues/8) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
-5. ❗️ Opened issue [#7](https://github.com/AkhilRobert/StockInventory/issues/7) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
+1. ❗️ Closed issue [#10](https://github.com/AkhilRobert/StockInventory/issues/10) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
+2. ❗️ Closed issue [#5](https://github.com/AkhilRobert/StockInventory/issues/5) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
+3. ❗️ Closed issue [#7](https://github.com/AkhilRobert/StockInventory/issues/7) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
+4. ❗️ Opened issue [#10](https://github.com/AkhilRobert/StockInventory/issues/10) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
+5. ❗️ Opened issue [#9](https://github.com/AkhilRobert/StockInventory/issues/9) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
 <!--END_SECTION:activity-->
 
 <h2 align="left">🚀 Languages and Tools :</h2>
