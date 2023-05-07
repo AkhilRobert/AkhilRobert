@@ -27,11 +27,11 @@
 
 ## ⚡ Recent Activity :
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/AkhilRobert/StockInventory/issues/10) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
-2. ❗️ Closed issue [#5](https://github.com/AkhilRobert/StockInventory/issues/5) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
-3. ❗️ Closed issue [#7](https://github.com/AkhilRobert/StockInventory/issues/7) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
-4. ❗️ Opened issue [#10](https://github.com/AkhilRobert/StockInventory/issues/10) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
-5. ❗️ Opened issue [#9](https://github.com/AkhilRobert/StockInventory/issues/9) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
+1. 💪 Opened PR [#39](https://github.com/HiPhish/nvim-ts-rainbow2/pull/39) in [HiPhish/nvim-ts-rainbow2](https://github.com/HiPhish/nvim-ts-rainbow2)
+2. ❗️ Closed issue [#10](https://github.com/AkhilRobert/StockInventory/issues/10) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
+3. ❗️ Closed issue [#5](https://github.com/AkhilRobert/StockInventory/issues/5) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
+4. ❗️ Closed issue [#7](https://github.com/AkhilRobert/StockInventory/issues/7) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
+5. ❗️ Opened issue [#10](https://github.com/AkhilRobert/StockInventory/issues/10) in [AkhilRobert/StockInventory](https://github.com/AkhilRobert/StockInventory)
 <!--END_SECTION:activity-->
 
 <h2 align="left">🚀 Languages and Tools :</h2>
