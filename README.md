@@ -114,7 +114,7 @@
 
 ## 📊 Languages Stats
 <p align="center">
-    <img width="49%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilRobert&hide=c,css,html,javascript,scss,markdown&langs_count=4&layout=compact&theme=nord&show_icons=true&show_icons=true&hide_border=true"/>
+    <img width="49%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilRobert&hide=css,html,scss,markdown&langs_count=6&layout=compact&theme=nord&show_icons=true&show_icons=true&hide_border=true"/>
 </p>
 
 ## 🏆 Trophy Stats
@@ -124,5 +124,5 @@
 
 ## 📈 Contributions Graph
 <p>
-    <img width="98%" alt="contributions graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AkhilRobert&area=true&layout=compact&theme=nord&hide_border=true" />
+    <img width="98%" alt="contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AkhilRobert&area=true&layout=compact&theme=nord&hide_border=true" />
 </p>
