@@ -114,7 +114,7 @@
 
 ## 📊 Languages Stats
 <p align="center">
-    <img width="49%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilRobert&hide=css,html,scss,markdown&langs_count=6&layout=compact&theme=nord&show_icons=true&show_icons=true&hide_border=true"/>
+    <img width="49%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilRobert&hide=css,html,scss,markdown,cmake,shell,scheme,lua&langs_count=8&layout=compact&theme=nord&show_icons=true&show_icons=true&hide_border=true"/>
 </p>
 
 ## 🏆 Trophy Stats
